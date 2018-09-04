@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\KUAS\Standard Body Weight Calc\Standard Body Weight Calc\bin\Debug\Standard Body Weight Calc.exe.config
+C:\Users\User\Desktop\KUAS\Standard Body Weight Calc\Standard Body Weight Calc\bin\Debug\Standard Body Weight Calc.exe
+C:\Users\User\Desktop\KUAS\Standard Body Weight Calc\Standard Body Weight Calc\bin\Debug\Standard Body Weight Calc.pdb
+C:\Users\User\Desktop\KUAS\Standard Body Weight Calc\Standard Body Weight Calc\obj\Debug\Standard Body Weight Calc.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\KUAS\Standard Body Weight Calc\Standard Body Weight Calc\obj\Debug\Standard Body Weight Calc.exe
+C:\Users\User\Desktop\KUAS\Standard Body Weight Calc\Standard Body Weight Calc\obj\Debug\Standard Body Weight Calc.pdb
+C:\Users\User\Desktop\KUAS\Standard Body Weight Calc_1\Standard Body Weight Calc\bin\Debug\Standard Body Weight Calc.exe.config
+C:\Users\User\Desktop\KUAS\Standard Body Weight Calc_1\Standard Body Weight Calc\obj\Debug\Standard Body Weight Calc.exe
+C:\Users\User\Desktop\KUAS\Standard Body Weight Calc_1\Standard Body Weight Calc\obj\Debug\Standard Body Weight Calc.pdb
+E:\kuas\Standard Body Weight Calc_1\Standard Body Weight Calc\bin\Debug\Standard Body Weight Calc.exe.config
+E:\kuas\Standard Body Weight Calc_1\Standard Body Weight Calc\obj\Debug\Standard Body Weight Calc.exe
+E:\kuas\Standard Body Weight Calc_1\Standard Body Weight Calc\obj\Debug\Standard Body Weight Calc.pdb
