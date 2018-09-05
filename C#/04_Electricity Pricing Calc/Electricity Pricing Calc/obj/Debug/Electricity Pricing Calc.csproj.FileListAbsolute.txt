@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\KUAS\Electricity Pricing Calc\Electricity Pricing Calc\bin\Debug\Electricity Pricing Calc.exe.config
+C:\Users\User\Desktop\KUAS\Electricity Pricing Calc\Electricity Pricing Calc\bin\Debug\Electricity Pricing Calc.exe
+C:\Users\User\Desktop\KUAS\Electricity Pricing Calc\Electricity Pricing Calc\bin\Debug\Electricity Pricing Calc.pdb
+C:\Users\User\Desktop\KUAS\Electricity Pricing Calc\Electricity Pricing Calc\obj\Debug\Electricity Pricing Calc.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\KUAS\Electricity Pricing Calc\Electricity Pricing Calc\obj\Debug\Electricity Pricing Calc.exe
+C:\Users\User\Desktop\KUAS\Electricity Pricing Calc\Electricity Pricing Calc\obj\Debug\Electricity Pricing Calc.pdb
