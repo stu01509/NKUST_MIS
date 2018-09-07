@@ -19,13 +19,13 @@ namespace Salary_Calculation
             for(int i = 1; i <= person; i++)
             {
                 Console.WriteLine("請輸入時數 時薪 工作日.");
-                string[] strIntputs = Console.ReadLine().Split(' ');
-                int startH = Convert.ToInt32(strIntputs[0]);
-                int startM = Convert.ToInt32(strIntputs[1]);
-                int endH = Convert.ToInt32(strIntputs[2]);
-                int endM = Convert.ToInt32(strIntputs[3]);
-                int money = Convert.ToInt32(strIntputs[4]);
-                int workDay = Convert.ToInt32(strIntputs[5]);
+                string[] strInputs = Console.ReadLine().Split(' ');
+                int startH = Convert.ToInt32(strInputs[0]);
+                int startM = Convert.ToInt32(strInputs[1]);
+                int endH = Convert.ToInt32(strInputs[2]);
+                int endM = Convert.ToInt32(strInputs[3]);
+                int money = Convert.ToInt32(strInputs[4]);
+                int workDay = Convert.ToInt32(strInputs[5]);
 
                 if(endM - startM > 0)
                 {
