@@ -4,3 +4,6 @@ C:\Users\User\Desktop\KUAS\Form A Triangle\Form A Triangle\bin\Debug\Form A Tria
 C:\Users\User\Desktop\KUAS\Form A Triangle\Form A Triangle\obj\Debug\Form A Triangle.csprojResolveAssemblyReference.cache
 C:\Users\User\Desktop\KUAS\Form A Triangle\Form A Triangle\obj\Debug\Form A Triangle.exe
 C:\Users\User\Desktop\KUAS\Form A Triangle\Form A Triangle\obj\Debug\Form A Triangle.pdb
+E:\kuas\06_Form A Triangle\Form A Triangle\bin\Debug\Form A Triangle.exe.config
+E:\kuas\06_Form A Triangle\Form A Triangle\obj\Debug\Form A Triangle.exe
+E:\kuas\06_Form A Triangle\Form A Triangle\obj\Debug\Form A Triangle.pdb

@@ -11,7 +11,7 @@ namespace Form_A_Triangle
         static void Main(string[] args)
         {
             
-            Console.WriteLine("能否構成三角形\r\n");
+            Console.WriteLine("能否構成三角形");
             Console.WriteLine("請輸入三邊長.");
 
             String inputuValue = Console.ReadLine();
