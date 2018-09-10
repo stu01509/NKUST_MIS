@@ -1,0 +1,12 @@
+E:\kuas\Farthest Two Points\Farthest Two Points\bin\Debug\Farthest Two Points.exe.config
+E:\kuas\Farthest Two Points\Farthest Two Points\bin\Debug\Farthest Two Points.exe
+E:\kuas\Farthest Two Points\Farthest Two Points\bin\Debug\Farthest Two Points.pdb
+E:\kuas\Farthest Two Points\Farthest Two Points\obj\Debug\Farthest Two Points.csprojResolveAssemblyReference.cache
+E:\kuas\Farthest Two Points\Farthest Two Points\obj\Debug\Farthest Two Points.exe
+E:\kuas\Farthest Two Points\Farthest Two Points\obj\Debug\Farthest Two Points.pdb
+E:\kuas\@@Farthest Two Points\Farthest Two Points\bin\Debug\Farthest Two Points.exe.config
+E:\kuas\@@Farthest Two Points\Farthest Two Points\obj\Debug\Farthest Two Points.exe
+E:\kuas\@@Farthest Two Points\Farthest Two Points\obj\Debug\Farthest Two Points.pdb
+E:\kuas\@@Farthest Two Points\Farthest Two Points\bin\Debug\Farthest Two Points.exe
+E:\kuas\@@Farthest Two Points\Farthest Two Points\bin\Debug\Farthest Two Points.pdb
+E:\kuas\@@Farthest Two Points\Farthest Two Points\obj\Debug\Farthest Two Points.csprojResolveAssemblyReference.cache
