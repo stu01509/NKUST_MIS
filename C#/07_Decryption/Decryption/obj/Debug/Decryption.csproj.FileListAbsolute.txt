@@ -10,3 +10,6 @@ E:\kuas\Decryption\Decryption\obj\Debug\Decryption.pdb
 E:\kuas\Decryption\Decryption\bin\Debug\Decryption.exe
 E:\kuas\Decryption\Decryption\bin\Debug\Decryption.pdb
 E:\kuas\Decryption\Decryption\obj\Debug\Decryption.csprojResolveAssemblyReference.cache
+E:\kuas\07_Decryption\Decryption\bin\Debug\Decryption.exe.config
+E:\kuas\07_Decryption\Decryption\obj\Debug\Decryption.exe
+E:\kuas\07_Decryption\Decryption\obj\Debug\Decryption.pdb

@@ -4,3 +4,6 @@ C:\Users\User\Desktop\KUAS\Santa Claus and Reindeer\Santa Claus and Reindeer\bin
 C:\Users\User\Desktop\KUAS\Santa Claus and Reindeer\Santa Claus and Reindeer\bin\Debug\Santa Claus and Reindeer.pdb
 C:\Users\User\Desktop\KUAS\Santa Claus and Reindeer\Santa Claus and Reindeer\obj\Debug\Santa Claus and Reindeer.exe
 C:\Users\User\Desktop\KUAS\Santa Claus and Reindeer\Santa Claus and Reindeer\obj\Debug\Santa Claus and Reindeer.pdb
+E:\kuas\08_Santa Claus and Reindeer\Santa Claus and Reindeer\bin\Debug\Santa Claus and Reindeer.exe.config
+E:\kuas\08_Santa Claus and Reindeer\Santa Claus and Reindeer\obj\Debug\Santa Claus and Reindeer.exe
+E:\kuas\08_Santa Claus and Reindeer\Santa Claus and Reindeer\obj\Debug\Santa Claus and Reindeer.pdb

@@ -14,7 +14,7 @@ namespace How_Many_Pairs_of_Rabbits
             int int_month , ans, first, second;
 
 
-            Console.WriteLine("到底有幾對兔子?\r\n");
+            Console.WriteLine("到底有幾對兔子?");
             Console.WriteLine("請輸入月份.");
 
             month = Console.ReadLine();

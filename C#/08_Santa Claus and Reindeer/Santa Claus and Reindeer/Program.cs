@@ -10,7 +10,7 @@ namespace Santa_Claus_and_Reindeer
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("聖誕老人與馴鹿 ");
+            Console.WriteLine("聖誕老人與馴鹿");
             float x = 1;
             Console.WriteLine("請輸入頭的數量.");
             float head = (float)Convert.ToDouble(Console.ReadLine());

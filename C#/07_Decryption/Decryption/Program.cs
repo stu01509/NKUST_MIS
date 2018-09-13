@@ -10,7 +10,7 @@ namespace Decryption
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("解密 ");
+            Console.WriteLine("解密");
             Console.WriteLine("請輸入Y.");
             string inputValue = Console.ReadLine();
 
