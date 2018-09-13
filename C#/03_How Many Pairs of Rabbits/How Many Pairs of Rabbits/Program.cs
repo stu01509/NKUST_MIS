@@ -10,7 +10,7 @@ namespace How_Many_Pairs_of_Rabbits
     {
         static void Main(string[] args)
         {
-            String month;
+            string month;
             int int_month , ans, first, second;
 
 
