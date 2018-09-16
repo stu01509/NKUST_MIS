@@ -21,18 +21,15 @@ public class StringReplace {
 			int ascii = (int)character;
 
 			
-			 if(48 <= ascii && ascii <= 57)
-             {
+			 if(48 <= ascii && ascii <= 57) {
                  ans += "0";
              }
 			 
-			 if (65 <= ascii && ascii <= 90)
-             {
+			 if (65 <= ascii && ascii <= 90) {
                  ans += inputValue.charAt(i);
              }
 			 
-			 if (97 <= ascii && ascii <= 122)
-             {
+			 if (97 <= ascii && ascii <= 122) {
                  int upperNumASCII= ascii - 32;
                  char upper =(char)upperNumASCII;
                  ans += String.valueOf(upper);
