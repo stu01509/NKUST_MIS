@@ -7,8 +7,8 @@ public class StringReplace {
 		
 		System.out.println("¦r¦êÅÜ´«");
 		System.out.println("½Ð¿é¤J¦r¦ê.");
-		Scanner scanner = new Scanner(System.in);
 		
+		Scanner scanner = new Scanner(System.in);
 		String inputValue = scanner.nextLine();
 
 		String ans = "";
