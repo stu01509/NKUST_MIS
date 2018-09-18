@@ -21,7 +21,7 @@ public class Encryption {
          int changedFour = (two + 7) % 10;
          
          String ans = String.valueOf(changedOne) + String.valueOf(changedTwo) +
-        		 	String.valueOf(changedThree) + String.valueOf(changedFour);
+        		 	  String.valueOf(changedThree) + String.valueOf(changedFour);
 		
          System.out.println(ans);
 	}
