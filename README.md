@@ -39,7 +39,7 @@
 
 ***
 
-11.  薪資計算機 Salary Calculation
+11. 薪資計算機 Salary Calculation
 
     需要特別注意起始的分鐘與結束的分鐘，滿足不滿一小時者需要無條件進位.
 
