@@ -14,8 +14,7 @@ public class StringReplace {
 		String ans = "";
 		
 		for(int i = 0; i< inputValue.length(); i++) {
-			
-			
+						
 			char character = inputValue.charAt(i);   
 			
 			int ascii = (int)character;
