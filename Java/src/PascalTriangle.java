@@ -31,7 +31,7 @@ public class PascalTriangle {
 	public static void pascal(int num, int position)
     {
 
-        // 先將數字計算儲存至 Array
+		// 先將數字計算儲存至 Array
         //  如題目的 0 ≤ n ≤ 65, Array空間最大設為 67
         int[][] table = new int[67][67];
 
@@ -39,7 +39,7 @@ public class PascalTriangle {
 
         for (int y = 1; y < 67; y++)
         {
-            // 每列的起始與最後位皆為1
+        	// 每列的起始與最後位皆為1
             table[y][0] = table[y - 1][0];
 
             for (int i = 1; i < 67; i++)
@@ -61,7 +61,7 @@ public class PascalTriangle {
             }               
         }
         
-        // 輸出答案完後 換行
+        //換行
         System.out.println("");
    	 	System.out.println(ans[position]);
     }
