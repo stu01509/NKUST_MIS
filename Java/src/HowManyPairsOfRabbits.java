@@ -13,7 +13,7 @@ public class HowManyPairsOfRabbits {
 	}
 	
 	
-	public static int fib(int num) {
+	public static double fib(double num) {
 		if(num == 1 || num == 2) {
 			return 1;
 		}else {

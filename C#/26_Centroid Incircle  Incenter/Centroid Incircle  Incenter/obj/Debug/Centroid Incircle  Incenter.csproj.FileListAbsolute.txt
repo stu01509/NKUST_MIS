@@ -17,3 +17,6 @@ E:\Centroid Incircle  Incenter\Centroid Incircle  Incenter\Centroid Incircle  In
 E:\Centroid Incircle  Incenter\Centroid Incircle  Incenter\Centroid Incircle  Incenter\bin\Debug\Centroid Incircle  Incenter.exe
 E:\Centroid Incircle  Incenter\Centroid Incircle  Incenter\Centroid Incircle  Incenter\bin\Debug\Centroid Incircle  Incenter.pdb
 E:\Centroid Incircle  Incenter\Centroid Incircle  Incenter\Centroid Incircle  Incenter\obj\Debug\Centroid Incircle  Incenter.csprojResolveAssemblyReference.cache
+E:\NKUST_MIS\C#\26_Centroid Incircle  Incenter\Centroid Incircle  Incenter\bin\Debug\Centroid Incircle  Incenter.exe.config
+E:\NKUST_MIS\C#\26_Centroid Incircle  Incenter\Centroid Incircle  Incenter\obj\Debug\Centroid Incircle  Incenter.exe
+E:\NKUST_MIS\C#\26_Centroid Incircle  Incenter\Centroid Incircle  Incenter\obj\Debug\Centroid Incircle  Incenter.pdb
