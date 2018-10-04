@@ -1,6 +1,0 @@
-E:\kuas\Guess Number\Guess Number\bin\Debug\Guess Number.exe.config
-E:\kuas\Guess Number\Guess Number\bin\Debug\Guess Number.exe
-E:\kuas\Guess Number\Guess Number\bin\Debug\Guess Number.pdb
-E:\kuas\Guess Number\Guess Number\obj\Debug\Guess Number.csprojResolveAssemblyReference.cache
-E:\kuas\Guess Number\Guess Number\obj\Debug\Guess Number.exe
-E:\kuas\Guess Number\Guess Number\obj\Debug\Guess Number.pdb

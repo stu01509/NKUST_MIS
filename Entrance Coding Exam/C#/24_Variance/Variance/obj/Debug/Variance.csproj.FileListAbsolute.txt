@@ -1,9 +1,0 @@
-E:\kuas\Variance\Variance\bin\Debug\Variance.exe.config
-E:\kuas\Variance\Variance\bin\Debug\Variance.exe
-E:\kuas\Variance\Variance\bin\Debug\Variance.pdb
-E:\kuas\Variance\Variance\obj\Debug\Variance.csprojResolveAssemblyReference.cache
-E:\kuas\Variance\Variance\obj\Debug\Variance.exe
-E:\kuas\Variance\Variance\obj\Debug\Variance.pdb
-E:\kuas\24_Variance\Variance\bin\Debug\Variance.exe.config
-E:\kuas\24_Variance\Variance\obj\Debug\Variance.exe
-E:\kuas\24_Variance\Variance\obj\Debug\Variance.pdb

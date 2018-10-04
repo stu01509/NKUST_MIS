@@ -1,6 +1,0 @@
-E:\kuas\Greatest Common Divisor\Greatest Common Divisor\bin\Debug\Greatest Common Divisor.exe.config
-E:\kuas\Greatest Common Divisor\Greatest Common Divisor\bin\Debug\Greatest Common Divisor.exe
-E:\kuas\Greatest Common Divisor\Greatest Common Divisor\bin\Debug\Greatest Common Divisor.pdb
-E:\kuas\Greatest Common Divisor\Greatest Common Divisor\obj\Debug\Greatest Common Divisor.csprojResolveAssemblyReference.cache
-E:\kuas\Greatest Common Divisor\Greatest Common Divisor\obj\Debug\Greatest Common Divisor.exe
-E:\kuas\Greatest Common Divisor\Greatest Common Divisor\obj\Debug\Greatest Common Divisor.pdb

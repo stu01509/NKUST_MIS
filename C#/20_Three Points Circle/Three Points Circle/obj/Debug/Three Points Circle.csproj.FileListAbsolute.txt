@@ -1,6 +1,0 @@
-E:\Three Points Circle\Three Points Circle\bin\Debug\Three Points Circle.exe.config
-E:\Three Points Circle\Three Points Circle\bin\Debug\Three Points Circle.exe
-E:\Three Points Circle\Three Points Circle\bin\Debug\Three Points Circle.pdb
-E:\Three Points Circle\Three Points Circle\obj\Debug\Three Points Circle.csprojResolveAssemblyReference.cache
-E:\Three Points Circle\Three Points Circle\obj\Debug\Three Points Circle.exe
-E:\Three Points Circle\Three Points Circle\obj\Debug\Three Points Circle.pdb

@@ -1,6 +1,0 @@
-C:\Users\User\Desktop\KUAS\Calculation results\Calculation results\bin\Debug\Calculation results.exe.config
-C:\Users\User\Desktop\KUAS\Calculation results\Calculation results\bin\Debug\Calculation results.exe
-C:\Users\User\Desktop\KUAS\Calculation results\Calculation results\bin\Debug\Calculation results.pdb
-C:\Users\User\Desktop\KUAS\Calculation results\Calculation results\obj\Debug\Calculation results.exe
-C:\Users\User\Desktop\KUAS\Calculation results\Calculation results\obj\Debug\Calculation results.pdb
-C:\Users\User\Desktop\KUAS\Calculation results\Calculation results\obj\Debug\Calculation results.csprojResolveAssemblyReference.cache

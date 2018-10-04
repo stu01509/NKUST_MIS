@@ -1,6 +1,0 @@
-C:\Users\User\Desktop\KUAS\Check Coordinate Inside the Circle Range\Check Coordinate Inside the Circle Range\bin\Debug\Check Coordinate Inside the Circle Range.exe.config
-C:\Users\User\Desktop\KUAS\Check Coordinate Inside the Circle Range\Check Coordinate Inside the Circle Range\bin\Debug\Check Coordinate Inside the Circle Range.exe
-C:\Users\User\Desktop\KUAS\Check Coordinate Inside the Circle Range\Check Coordinate Inside the Circle Range\bin\Debug\Check Coordinate Inside the Circle Range.pdb
-C:\Users\User\Desktop\KUAS\Check Coordinate Inside the Circle Range\Check Coordinate Inside the Circle Range\obj\Debug\Check Coordinate Inside the Circle Range.csprojResolveAssemblyReference.cache
-C:\Users\User\Desktop\KUAS\Check Coordinate Inside the Circle Range\Check Coordinate Inside the Circle Range\obj\Debug\Check Coordinate Inside the Circle Range.exe
-C:\Users\User\Desktop\KUAS\Check Coordinate Inside the Circle Range\Check Coordinate Inside the Circle Range\obj\Debug\Check Coordinate Inside the Circle Range.pdb

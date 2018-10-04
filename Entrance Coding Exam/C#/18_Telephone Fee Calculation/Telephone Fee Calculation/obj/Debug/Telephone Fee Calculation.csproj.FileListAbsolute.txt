@@ -1,9 +1,0 @@
-E:\kuas\Telephone Fee Calculation\Telephone Fee Calculation\bin\Debug\Telephone Fee Calculation.exe.config
-E:\kuas\Telephone Fee Calculation\Telephone Fee Calculation\bin\Debug\Telephone Fee Calculation.exe
-E:\kuas\Telephone Fee Calculation\Telephone Fee Calculation\bin\Debug\Telephone Fee Calculation.pdb
-E:\kuas\Telephone Fee Calculation\Telephone Fee Calculation\obj\Debug\Telephone Fee Calculation.csprojResolveAssemblyReference.cache
-E:\kuas\Telephone Fee Calculation\Telephone Fee Calculation\obj\Debug\Telephone Fee Calculation.exe
-E:\kuas\Telephone Fee Calculation\Telephone Fee Calculation\obj\Debug\Telephone Fee Calculation.pdb
-E:\kuas\18_Telephone Fee Calculation\Telephone Fee Calculation\bin\Debug\Telephone Fee Calculation.exe.config
-E:\kuas\18_Telephone Fee Calculation\Telephone Fee Calculation\obj\Debug\Telephone Fee Calculation.exe
-E:\kuas\18_Telephone Fee Calculation\Telephone Fee Calculation\obj\Debug\Telephone Fee Calculation.pdb

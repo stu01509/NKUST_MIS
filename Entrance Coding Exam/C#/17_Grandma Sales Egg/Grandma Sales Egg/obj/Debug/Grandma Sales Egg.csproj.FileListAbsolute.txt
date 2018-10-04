@@ -1,9 +1,0 @@
-E:\kuas\Grandma Sales Egg\Grandma Sales Egg\bin\Debug\Grandma Sales Egg.exe.config
-E:\kuas\Grandma Sales Egg\Grandma Sales Egg\bin\Debug\Grandma Sales Egg.exe
-E:\kuas\Grandma Sales Egg\Grandma Sales Egg\bin\Debug\Grandma Sales Egg.pdb
-E:\kuas\Grandma Sales Egg\Grandma Sales Egg\obj\Debug\Grandma Sales Egg.csprojResolveAssemblyReference.cache
-E:\kuas\Grandma Sales Egg\Grandma Sales Egg\obj\Debug\Grandma Sales Egg.exe
-E:\kuas\Grandma Sales Egg\Grandma Sales Egg\obj\Debug\Grandma Sales Egg.pdb
-E:\kuas\17_Grandma Sales Egg\Grandma Sales Egg\bin\Debug\Grandma Sales Egg.exe.config
-E:\kuas\17_Grandma Sales Egg\Grandma Sales Egg\obj\Debug\Grandma Sales Egg.exe
-E:\kuas\17_Grandma Sales Egg\Grandma Sales Egg\obj\Debug\Grandma Sales Egg.pdb

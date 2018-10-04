@@ -1,6 +1,0 @@
-E:\kuas\Pascal Triangle\Pascal Triangle\bin\Debug\Pascal Triangle.exe.config
-E:\kuas\Pascal Triangle\Pascal Triangle\bin\Debug\Pascal Triangle.exe
-E:\kuas\Pascal Triangle\Pascal Triangle\bin\Debug\Pascal Triangle.pdb
-E:\kuas\Pascal Triangle\Pascal Triangle\obj\Debug\Pascal Triangle.csprojResolveAssemblyReference.cache
-E:\kuas\Pascal Triangle\Pascal Triangle\obj\Debug\Pascal Triangle.exe
-E:\kuas\Pascal Triangle\Pascal Triangle\obj\Debug\Pascal Triangle.pdb
