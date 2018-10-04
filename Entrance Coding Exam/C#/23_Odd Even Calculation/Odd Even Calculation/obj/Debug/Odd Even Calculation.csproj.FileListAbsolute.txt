@@ -1,0 +1,9 @@
+E:\kuas\Odd Even Calculation\Odd Even Calculation\bin\Debug\Odd Even Calculation.exe.config
+E:\kuas\Odd Even Calculation\Odd Even Calculation\bin\Debug\Odd Even Calculation.exe
+E:\kuas\Odd Even Calculation\Odd Even Calculation\bin\Debug\Odd Even Calculation.pdb
+E:\kuas\Odd Even Calculation\Odd Even Calculation\obj\Debug\Odd Even Calculation.csprojResolveAssemblyReference.cache
+E:\kuas\Odd Even Calculation\Odd Even Calculation\obj\Debug\Odd Even Calculation.exe
+E:\kuas\Odd Even Calculation\Odd Even Calculation\obj\Debug\Odd Even Calculation.pdb
+E:\kuas\23_Odd Even Calculation\Odd Even Calculation\bin\Debug\Odd Even Calculation.exe.config
+E:\kuas\23_Odd Even Calculation\Odd Even Calculation\obj\Debug\Odd Even Calculation.exe
+E:\kuas\23_Odd Even Calculation\Odd Even Calculation\obj\Debug\Odd Even Calculation.pdb

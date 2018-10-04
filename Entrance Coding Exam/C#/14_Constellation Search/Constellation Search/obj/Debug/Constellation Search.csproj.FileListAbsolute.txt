@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\KUAS\Constellation Search\Constellation Search\bin\Debug\Constellation Search.exe.config
+C:\Users\User\Desktop\KUAS\Constellation Search\Constellation Search\bin\Debug\Constellation Search.exe
+C:\Users\User\Desktop\KUAS\Constellation Search\Constellation Search\bin\Debug\Constellation Search.pdb
+C:\Users\User\Desktop\KUAS\Constellation Search\Constellation Search\obj\Debug\Constellation Search.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\KUAS\Constellation Search\Constellation Search\obj\Debug\Constellation Search.exe
+C:\Users\User\Desktop\KUAS\Constellation Search\Constellation Search\obj\Debug\Constellation Search.pdb

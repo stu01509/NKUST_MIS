@@ -1,0 +1,9 @@
+E:\kuas\Every Digit Sort\Every Digit Sort\bin\Debug\Every Digit Sort.exe.config
+E:\kuas\Every Digit Sort\Every Digit Sort\obj\Debug\Every Digit Sort.csprojResolveAssemblyReference.cache
+E:\kuas\Every Digit Sort\Every Digit Sort\bin\Debug\Every Digit Sort.exe
+E:\kuas\Every Digit Sort\Every Digit Sort\bin\Debug\Every Digit Sort.pdb
+E:\kuas\Every Digit Sort\Every Digit Sort\obj\Debug\Every Digit Sort.exe
+E:\kuas\Every Digit Sort\Every Digit Sort\obj\Debug\Every Digit Sort.pdb
+E:\NKUST_MIS\C#\29_Every Digit Sort\Every Digit Sort\bin\Debug\Every Digit Sort.exe.config
+E:\NKUST_MIS\C#\29_Every Digit Sort\Every Digit Sort\obj\Debug\Every Digit Sort.exe
+E:\NKUST_MIS\C#\29_Every Digit Sort\Every Digit Sort\obj\Debug\Every Digit Sort.pdb
