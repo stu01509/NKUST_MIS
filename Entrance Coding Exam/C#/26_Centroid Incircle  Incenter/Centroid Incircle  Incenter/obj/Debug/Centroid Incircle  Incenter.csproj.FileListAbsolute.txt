@@ -1,0 +1,22 @@
+E:\kuas\Centroid Incircle  Incenter\Centroid Incircle  Incenter\bin\Debug\Centroid Incircle  Incenter.exe.config
+E:\kuas\Centroid Incircle  Incenter\Centroid Incircle  Incenter\bin\Debug\Centroid Incircle  Incenter.exe
+E:\kuas\Centroid Incircle  Incenter\Centroid Incircle  Incenter\bin\Debug\Centroid Incircle  Incenter.pdb
+E:\kuas\Centroid Incircle  Incenter\Centroid Incircle  Incenter\obj\Debug\Centroid Incircle  Incenter.csprojResolveAssemblyReference.cache
+E:\kuas\Centroid Incircle  Incenter\Centroid Incircle  Incenter\obj\Debug\Centroid Incircle  Incenter.exe
+E:\kuas\Centroid Incircle  Incenter\Centroid Incircle  Incenter\obj\Debug\Centroid Incircle  Incenter.pdb
+D:\使用者\enoch\Downloads\Telegram Desktop\Centroid Incircle  Incenter\Centroid Incircle  Incenter\Centroid Incircle  Incenter\bin\Debug\Centroid Incircle  Incenter.exe.config
+D:\使用者\enoch\Downloads\Telegram Desktop\Centroid Incircle  Incenter\Centroid Incircle  Incenter\Centroid Incircle  Incenter\bin\Debug\Centroid Incircle  Incenter.exe
+D:\使用者\enoch\Downloads\Telegram Desktop\Centroid Incircle  Incenter\Centroid Incircle  Incenter\Centroid Incircle  Incenter\bin\Debug\Centroid Incircle  Incenter.pdb
+D:\使用者\enoch\Downloads\Telegram Desktop\Centroid Incircle  Incenter\Centroid Incircle  Incenter\Centroid Incircle  Incenter\obj\Debug\Centroid Incircle  Incenter.csprojAssemblyReference.cache
+D:\使用者\enoch\Downloads\Telegram Desktop\Centroid Incircle  Incenter\Centroid Incircle  Incenter\Centroid Incircle  Incenter\obj\Debug\Centroid Incircle  Incenter.csproj.CoreCompileInputs.cache
+D:\使用者\enoch\Downloads\Telegram Desktop\Centroid Incircle  Incenter\Centroid Incircle  Incenter\Centroid Incircle  Incenter\obj\Debug\Centroid Incircle  Incenter.exe
+D:\使用者\enoch\Downloads\Telegram Desktop\Centroid Incircle  Incenter\Centroid Incircle  Incenter\Centroid Incircle  Incenter\obj\Debug\Centroid Incircle  Incenter.pdb
+E:\Centroid Incircle  Incenter\Centroid Incircle  Incenter\Centroid Incircle  Incenter\bin\Debug\Centroid Incircle  Incenter.exe.config
+E:\Centroid Incircle  Incenter\Centroid Incircle  Incenter\Centroid Incircle  Incenter\obj\Debug\Centroid Incircle  Incenter.exe
+E:\Centroid Incircle  Incenter\Centroid Incircle  Incenter\Centroid Incircle  Incenter\obj\Debug\Centroid Incircle  Incenter.pdb
+E:\Centroid Incircle  Incenter\Centroid Incircle  Incenter\Centroid Incircle  Incenter\bin\Debug\Centroid Incircle  Incenter.exe
+E:\Centroid Incircle  Incenter\Centroid Incircle  Incenter\Centroid Incircle  Incenter\bin\Debug\Centroid Incircle  Incenter.pdb
+E:\Centroid Incircle  Incenter\Centroid Incircle  Incenter\Centroid Incircle  Incenter\obj\Debug\Centroid Incircle  Incenter.csprojResolveAssemblyReference.cache
+E:\NKUST_MIS\C#\26_Centroid Incircle  Incenter\Centroid Incircle  Incenter\bin\Debug\Centroid Incircle  Incenter.exe.config
+E:\NKUST_MIS\C#\26_Centroid Incircle  Incenter\Centroid Incircle  Incenter\obj\Debug\Centroid Incircle  Incenter.exe
+E:\NKUST_MIS\C#\26_Centroid Incircle  Incenter\Centroid Incircle  Incenter\obj\Debug\Centroid Incircle  Incenter.pdb

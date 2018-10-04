@@ -1,0 +1,9 @@
+E:\kuas\Sine Function Approximate Value\Sine Function Approximate Value\bin\Debug\Sine Function Approximate Value.exe.config
+E:\kuas\Sine Function Approximate Value\Sine Function Approximate Value\bin\Debug\Sine Function Approximate Value.exe
+E:\kuas\Sine Function Approximate Value\Sine Function Approximate Value\bin\Debug\Sine Function Approximate Value.pdb
+E:\kuas\Sine Function Approximate Value\Sine Function Approximate Value\obj\Debug\Sine Function Approximate Value.csprojResolveAssemblyReference.cache
+E:\kuas\Sine Function Approximate Value\Sine Function Approximate Value\obj\Debug\Sine Function Approximate Value.exe
+E:\kuas\Sine Function Approximate Value\Sine Function Approximate Value\obj\Debug\Sine Function Approximate Value.pdb
+E:\kuas\25_Sine Function Approximate Value\Sine Function Approximate Value\bin\Debug\Sine Function Approximate Value.exe.config
+E:\kuas\25_Sine Function Approximate Value\Sine Function Approximate Value\obj\Debug\Sine Function Approximate Value.exe
+E:\kuas\25_Sine Function Approximate Value\Sine Function Approximate Value\obj\Debug\Sine Function Approximate Value.pdb

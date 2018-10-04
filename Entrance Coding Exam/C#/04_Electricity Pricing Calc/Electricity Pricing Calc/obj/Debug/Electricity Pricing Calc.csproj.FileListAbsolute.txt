@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\KUAS\Electricity Pricing Calc\Electricity Pricing Calc\bin\Debug\Electricity Pricing Calc.exe.config
+C:\Users\User\Desktop\KUAS\Electricity Pricing Calc\Electricity Pricing Calc\bin\Debug\Electricity Pricing Calc.exe
+C:\Users\User\Desktop\KUAS\Electricity Pricing Calc\Electricity Pricing Calc\bin\Debug\Electricity Pricing Calc.pdb
+C:\Users\User\Desktop\KUAS\Electricity Pricing Calc\Electricity Pricing Calc\obj\Debug\Electricity Pricing Calc.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\KUAS\Electricity Pricing Calc\Electricity Pricing Calc\obj\Debug\Electricity Pricing Calc.exe
+C:\Users\User\Desktop\KUAS\Electricity Pricing Calc\Electricity Pricing Calc\obj\Debug\Electricity Pricing Calc.pdb
+E:\NKUST_MIS\C#\04_Electricity Pricing Calc\Electricity Pricing Calc\bin\Debug\Electricity Pricing Calc.exe.config
+E:\NKUST_MIS\C#\04_Electricity Pricing Calc\Electricity Pricing Calc\obj\Debug\Electricity Pricing Calc.exe
+E:\NKUST_MIS\C#\04_Electricity Pricing Calc\Electricity Pricing Calc\obj\Debug\Electricity Pricing Calc.pdb
+E:\NKUST_MIS\C#\04_Electricity Pricing Calc\Electricity Pricing Calc\bin\Debug\Electricity Pricing Calc.exe
+E:\NKUST_MIS\C#\04_Electricity Pricing Calc\Electricity Pricing Calc\bin\Debug\Electricity Pricing Calc.pdb
+E:\NKUST_MIS\C#\04_Electricity Pricing Calc\Electricity Pricing Calc\obj\Debug\Electricity Pricing Calc.csprojResolveAssemblyReference.cache
