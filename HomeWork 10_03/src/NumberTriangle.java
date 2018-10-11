@@ -1,4 +1,4 @@
-public class NumberTriangle_2{
+public class NumberTriangle{
 
   public static void main(String[] args){
 
