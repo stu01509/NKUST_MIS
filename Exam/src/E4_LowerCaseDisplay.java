@@ -10,14 +10,14 @@ public class E4_LowerCaseDisplay {
 		Scanner scanner = new Scanner(System.in);
 		String inputValue = scanner.nextLine();
 		
-		for(int i = 0; i < inputValue.length(); i++) {
+		for (int i = 0; i < inputValue.length(); i++) {
 			
 			int ascii = Integer.valueOf(inputValue.charAt(i));
 									
-			if(65 <= ascii && ascii <= 90) {
+			if (65 <= ascii && ascii <= 90) {
 				
 				System.out.print((char)(ascii + 32));
-			}else {
+			} else {
 				System.out.print((char)(ascii));
 			}
 			

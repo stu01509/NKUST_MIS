@@ -22,7 +22,7 @@ public class E3_StringReplace {
 		String[] inputReplace = inputValue;
 		inputReplace[digit - 1] = change;
 		
-		for(int i = 0; i < inputReplace.length; i++) {
+		for (int i = 0; i < inputReplace.length; i++) {
 			System.out.print(inputReplace[i]);
 		}
 	}

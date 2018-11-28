@@ -21,7 +21,7 @@ public class E2_StringLengthCalcAndReverseDisplay {
 	public static void Reverse(String[] inputValue) {
 		System.out.print("¤ÏÂà«á¦r¦ê¡G");
 		
-		for(int i = inputValue.length - 1; i >= 0; i--) {
+		for (int i = inputValue.length - 1; i >= 0; i--) {
 			System.out.print(inputValue[i]);
 		}
 	}
