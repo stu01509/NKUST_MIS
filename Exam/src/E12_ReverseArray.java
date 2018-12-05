@@ -7,7 +7,7 @@ public class E12_ReverseArray {
 		System.out.println("E12. 反轉陣列");		
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.print("請輸入: ");
+		System.out.print("請輸入:");
 		String inputValue[] = scanner.nextLine().split(" ");
 		invert(inputValue, inputValue.length -1);
 		
