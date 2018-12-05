@@ -4,10 +4,10 @@ public class E12_ReverseArray {
 
 	public static void main(String[] args) {
 		
-		System.out.println("E12. ¤ÏÂà°}¦C");		
+		System.out.println("E12. åè½‰é™£åˆ—");		
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.print("½Ğ¿é¤J:");
+		System.out.print("è«‹è¼¸å…¥:");
 		String inputValue[] = scanner.nextLine().split(" ");
 		invert(inputValue, inputValue.length -1);
 		
