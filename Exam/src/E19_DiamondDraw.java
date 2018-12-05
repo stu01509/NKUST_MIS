@@ -3,7 +3,7 @@ public class E19_DiamondDraw {
 
 	public static void main(String[] args) {
 		
-		System.out.println("E19. �٧�ø�s");
+		System.out.println("E19. 菱形繪製");
 		
 		int n = 4;
 	    for (int i = 1 ; i <= n ; i++){
