@@ -4,10 +4,10 @@ public class M1_BuyFruit {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("M1. ¶R¤ôªG");
+		System.out.println("M1. è²·æ°´æžœ");
 		
 		Scanner scanner = new Scanner(System.in);
-		System.out.print("¿é¤J N¡G");
+		System.out.print("è¼¸å…¥ Nï¼š");
 		
 		int money = scanner.nextInt();
 		boolean isSol = false;
