@@ -7,7 +7,7 @@ public class E17_LeastDistanceBetweenTwoNumber {
 	
 	public static void main(String[] args) {
 				
-		System.out.println("E17. ¨â¼Æ¶¡¤p¶ZÂ÷ ");
+		System.out.println("E17. å…©æ•¸é–“æœ€å°è·é›¢ ");
 		findDistance();
 		
 	}
