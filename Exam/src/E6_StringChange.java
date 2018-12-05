@@ -4,7 +4,7 @@ public class E6_StringChange {
 
 	public static void main(String[] args) {
 		
-		System.out.println("E6. ¦r¦êÅÜ´«");
+		System.out.println("E6. å­—ä¸²è®Šæ›");
 		
 		Scanner scanner = new Scanner(System.in);
 		String inputValue = scanner.nextLine();
