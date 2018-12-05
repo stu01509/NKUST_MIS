@@ -4,11 +4,11 @@ public class E20_PrimeCalc {
 
 	public static void main(String[] args) {
 		
-		System.out.println("E20. ½è¦]¼Æ­pºâ");
+		System.out.println("E20. è³ªå› æ•¸è¨ˆç®—");
 		
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.print("¿é¤J¥¿¾ã¼Æ­È n:");
+		System.out.print("è¼¸å…¥æ­£æ•´æ•¸å€¼ n :");
 		int inputValue = Integer.valueOf(scanner.nextLine());
 		int value = inputValue;
 		int p = 0;
