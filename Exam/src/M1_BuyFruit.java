@@ -4,8 +4,7 @@ public class M1_BuyFruit {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("M1. 買水果");
-		
+		System.out.println("M1. 買水果");		
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("輸入 N：");
 		
