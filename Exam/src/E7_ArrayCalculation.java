@@ -4,7 +4,7 @@ public class E7_ArrayCalculation {
 
 	public static void main(String[] args) {
 		
-		System.out.println("E7. °}¦C­pºâ");
+		System.out.println("E7. é™£åˆ—è¨ˆç®—");
 		
 		Scanner scanner = new Scanner(System.in);
 		String[] arr1 = scanner.nextLine().split(" ");
