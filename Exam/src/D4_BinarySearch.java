@@ -4,13 +4,13 @@ public class D4_BinarySearch {
 
 	public static void main (String[] args) {
 				
-		System.out.println("D4. ¤G¤¸·j´Mªk");
+		System.out.println("D4. äºŒå…ƒæœå°‹æ³•");
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.print("¥¼±Æ§Ç¸ê®Æ¡G");
+		System.out.print("æœªæ’åºè³‡æ–™ï¼š");
 		String[] data = scanner.nextLine().split(", ");
 		
-		System.out.print("½Ğ¿é¤J­n´M§äªº¼Æ¦r:");
+		System.out.print("è«‹è¼¸å…¥è¦å°‹æ‰¾çš„æ•¸å­—:");
 		int find = scanner.nextInt();
 		
 //		Sort
@@ -28,37 +28,43 @@ public class D4_BinarySearch {
 				
 			}
 			
-		}		
+		}
+		
+		System.out.print("æ’åºå¾Œè³‡æ–™å…§å®¹ :");
+           
+        for (int i = 0; i< data.length; i++) {
+        	System.out.print(data[i] + " ");
+        }
 
-		System.out.println("¼Æ¦r" + find + "¦b²Ä" + (binarySearch(data, find) + 1) + "­Ó¦ì¸m");
+		System.out.println("æ•¸å­—" + find + "åœ¨ç¬¬" + (binarySearch(data, find) + 1) + "å€‹ä½ç½®");
 
 	}
 	
 	
 	public static int binarySearch(String[] data, int findValue) {
 		
-//		³Ì¥ªÃäªº¦ì¸m		
+//		æœ€å·¦é‚Šçš„ä½ç½®		
 		int left = 0;
-//		³Ì¥kÃäªº¦ì¸m
+//		æœ€å³é‚Šçš„ä½ç½®
 		int right = data.length - 1;
 		
 //				
 		for (int i = left; i <= right; i++) {
 			
-//			¦pªG«Ü©¯¹Bªº¤¤¶¡­È´N¬O§Ú­Ì©Ò­nªº ª½±µ¦^¶Ç
+//			å¦‚æœå¾ˆå¹¸é‹çš„ä¸­é–“å€¼å°±æ˜¯æˆ‘å€‘æ‰€è¦çš„ ç›´æ¥å›å‚³
 			if (Integer.valueOf(data[(left + right) / 2]) == findValue) {
 				return (left + right) / 2;
 			}
 			
-//			¦pªG¤¤¶¡­È ¤j©ó§Ú­Ì©Ò­nªº­È §Ú­Ì¥i¥Hª¾¹D»¡ §Ú­Ì­nªº­È ¦b¦ì©ó ¤¤¶¡ªº¥ªÃä
+//			å¦‚æœä¸­é–“å€¼ å¤§æ–¼æˆ‘å€‘æ‰€è¦çš„å€¼ æˆ‘å€‘å¯ä»¥çŸ¥é“èªª æˆ‘å€‘è¦çš„å€¼ åœ¨ä½æ–¼ ä¸­é–“çš„å·¦é‚Š
 			if (Integer.valueOf(data[(left + right) / 2]) > findValue) {
-//				­«·s©w¸q¥kÃäªº¦ì¸m
+//				é‡æ–°å®šç¾©å³é‚Šçš„ä½ç½®
 				right = ((left + right) / 2) - 1; 
 			}
 			
-//			¦pªG¤¤¶¡­È ¤p©ó§Ú­Ì©Ò­nªº­È §Ú­Ì¥i¥Hª¾¹D»¡ §Ú­Ì­nªº­È ¦b¦ì©ó ¤¤¶¡ªº¥kÃä
+//			å¦‚æœä¸­é–“å€¼ å°æ–¼æˆ‘å€‘æ‰€è¦çš„å€¼ æˆ‘å€‘å¯ä»¥çŸ¥é“èªª æˆ‘å€‘è¦çš„å€¼ åœ¨ä½æ–¼ ä¸­é–“çš„å³é‚Š
 			if (Integer.valueOf(data[(left + right) / 2]) < findValue) {
-//				­«·s©w¸q¥ªÃäªº¦ì¸m
+//				é‡æ–°å®šç¾©å·¦é‚Šçš„ä½ç½®
 				left = ((left + right) / 2) + 1; 
 			}
 						
