@@ -3,7 +3,7 @@ public class D2_SelectionSort {
 
 	public static void main(String[] args)  {
 	
-		System.out.println("D2. ��ܱƧǪk");
+		System.out.println("D2. 選擇排序法");
 		
 		int[] arr = {23, 54, 6, 87, 30, 47, 13, 17, 91, 72};
 		
@@ -24,7 +24,7 @@ public class D2_SelectionSort {
 
         }
 		
-		System.out.print("�Ƨǵ��G�� ");
+		System.out.print("排序結果為 ");
 		
 		for(int i:arr) {
 			System.out.print(i + " ");

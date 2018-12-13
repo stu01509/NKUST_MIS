@@ -4,13 +4,13 @@ public class D3_MultipleLineCalculation {
 
 	public static void main (String[] args) {
 		
-		System.out.println("D3. ¦h¶µ¦¡¹Bºâ");
+		System.out.println("D3. å¤šé …å¼é‹ç®—");
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.print("¿é¤J²Ä¤@­Ó¦h¶µ¦¡¡G");
+		System.out.print("è¼¸å…¥ç¬¬ä¸€å€‹å¤šé …å¼ï¼š");
 		String[] lineOne = scanner.nextLine().split(" ");
 		
-		System.out.print("¿é¤J²Ä¤G­Ó¦h¶µ¦¡¡G");
+		System.out.print("è¼¸å…¥ç¬¬äºŒå€‹å¤šé …å¼ï¼š");
 		String[] lineTwo = scanner.nextLine().split(" ");
 		
 		
@@ -21,7 +21,7 @@ public class D3_MultipleLineCalculation {
 		
 		for (int i = 0; i < lineOne.length; i++) {
 			
-//			¤£¥[¦¸¤è²Å¸¹
+//			ä¸åŠ æ¬¡æ–¹ç¬¦è™Ÿ
 			if (pow <= 1) {
 				
 				if (pow < 1) {
@@ -34,7 +34,7 @@ public class D3_MultipleLineCalculation {
 				System.out.print((Integer.valueOf(lineOne[i]) + Integer.valueOf(lineTwo[i])) + "x" + "^" + pow);
 			}
 			
-//			¤£¥[ + ¸¹
+//			ä¸åŠ  + è™Ÿ
 			if (i != lineOne.length -1) {
 				System.out.print(" + ");
 			}

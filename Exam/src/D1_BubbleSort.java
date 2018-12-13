@@ -3,7 +3,7 @@ public class D1_BubbleSort {
 
 	public static void main(String[] args) {
 		
-		System.out.println("D1. ��w�ƧǪk");
+		System.out.println("D1. 氣泡排序法");
 		
 		long[] randomArr = new long[10];
 		
