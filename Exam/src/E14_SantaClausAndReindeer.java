@@ -4,21 +4,20 @@ public class E14_SantaClausAndReindeer {
 
 	public static void main(String[] args) {
 		
-		System.out.println("E14. ¸t½Ï¦Ñ¤H»P¹¥³À");
+		System.out.println("E14. è–èª•è€äººèˆ‡é¦´é¹¿");
 		
 		Scanner scanner = new Scanner(System.in);
-		System.out.println("½Ğ¿é¤JÀYªº¼Æ¶q.");
+		System.out.println("è«‹è¼¸å…¥é ­çš„æ•¸é‡.");
 		int head = Integer.valueOf(scanner.nextLine());
-		System.out.println("½Ğ¿é¤J¸}ªº¼Æ¶q.");
+		System.out.println("è«‹è¼¸å…¥è…³çš„æ•¸é‡.");
 		int foot = Integer.valueOf(scanner.nextLine());
 			
 	
         int y1 = (foot - (head * 2)) / 2;
         int x1 = head - y1;
-        
-        System.out.println(x1 + " " + y1);
-        System.out.println("¸t½Ï¦Ñ¤H¦@¦³ " + x1 + " ¦ì");
-        System.out.println("¹¥³À¦@¦³ " + x1 + " °¦");
+
+        System.out.println("è–èª•è€äººå…±æœ‰ " + x1 + " ä½");
+        System.out.println("é¦´é¹¿å…±æœ‰ " + y1 + " éš»");
 		
 	}
 	
