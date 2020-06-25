@@ -94,7 +94,7 @@ public class IdentityIDCheck {
                 code = "33";
                 break;              
             default:
-            	System.out.println("¿ù»~");
+            	System.out.println("錯誤");
                 break;
          }
 		 		 
