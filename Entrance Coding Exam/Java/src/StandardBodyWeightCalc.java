@@ -5,8 +5,8 @@ public class StandardBodyWeightCalc {
 
 	public static void main(String[] args) {
 		
-		System.out.println("¼Ğ·ÇÅé­«­pºâ");
-		System.out.println("½Ğ¿é¤J¨­°ª»P©Ê§O.");
+		System.out.println("2. æ¨™æº–é«”é‡è¨ˆç®—");
+		System.out.println("è«‹è¼¸å…¥èº«é«˜èˆ‡æ€§åˆ¥.");
 		
 		Scanner scanner = new Scanner(System.in);
 

@@ -11,7 +11,7 @@ namespace Variance
         static void Main(string[] args)
         {
 
-            Console.WriteLine("變異數");
+            Console.WriteLine("24. 變異數");
             Console.WriteLine("請輸入數字.");
             string[] inputValue = Console.ReadLine().Split(' ');
 

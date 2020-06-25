@@ -5,8 +5,8 @@ public class StringReplace {
 	public static void main(String[] args) {
 		
 		
-		System.out.println("¦r¦êÅÜ´«");
-		System.out.println("½Ğ¿é¤J¦r¦ê.");
+		System.out.println("13. å­—ä¸²è®Šæ›");
+		System.out.println("è«‹è¼¸å…¥å­—ä¸².");
 		
 		Scanner scanner = new Scanner(System.in);
 		String inputValue = scanner.nextLine();

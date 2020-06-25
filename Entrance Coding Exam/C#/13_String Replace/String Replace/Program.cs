@@ -10,8 +10,8 @@ namespace String_Replace
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("字串變換");
-            Console.WriteLine("請輸入字串");
+            Console.WriteLine("13. 字串變換");
+            Console.WriteLine("請輸入字串.");
             string input = Console.ReadLine();
             string ans = "";
 

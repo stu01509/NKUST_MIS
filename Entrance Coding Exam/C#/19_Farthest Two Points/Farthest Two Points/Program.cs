@@ -10,7 +10,7 @@ namespace Farthest_Two_Points
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("最遠的兩點");
+            Console.WriteLine("19. 最遠的兩點");
             Console.WriteLine("請輸入幾個點.");
             int[,] dataDot = new int[1000, 2];
             int inputValue = Convert.ToInt32(Console.ReadLine());

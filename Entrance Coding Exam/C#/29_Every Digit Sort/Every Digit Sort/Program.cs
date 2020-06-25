@@ -10,7 +10,7 @@ namespace Every_Digit_Sort
     {
         static void Main()
         {
-            Console.WriteLine("各位數字和排序");
+            Console.WriteLine("29. 各位數字和排序");
             Console.WriteLine("請輸入個數.");
 
             int inputN = Convert.ToInt32(Console.ReadLine());

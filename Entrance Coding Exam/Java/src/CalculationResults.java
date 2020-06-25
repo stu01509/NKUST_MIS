@@ -4,12 +4,12 @@ public class CalculationResults {
 
 	public static void main(String[] args) {
 		
-		System.out.println("­pºâµ²ªG ");
+		System.out.println("9. è¨ˆç®—çµæœ");
 	
 		Scanner scanner = new Scanner(System.in);
-		System.out.println("½Ğ¿é¤JM.");
+		System.out.println("è«‹è¼¸å…¥m.");
 		int inputM = Integer.valueOf(scanner.nextLine());
-		System.out.println("½Ğ¿é¤JN.");
+		System.out.println("è«‹è¼¸å…¥n.");
 		int inputN = Integer.valueOf(scanner.nextLine());
 		
 		

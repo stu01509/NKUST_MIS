@@ -4,8 +4,8 @@ public class Decryption {
 
 	public static void main(String[] args) {
 		
-		System.out.println("�ѱK ");
-		System.out.println("�п�J�Ʀr.");
+		System.out.println("7. 解密");
+		System.out.println("請輸入Y.");
 		
 		Scanner scanner = new Scanner(System.in);
 		

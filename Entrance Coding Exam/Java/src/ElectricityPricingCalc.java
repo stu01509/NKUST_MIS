@@ -5,8 +5,8 @@ public class ElectricityPricingCalc {
 
 	public static void main(String[] args) {
 		
-		System.out.println("­pºâ¹q¶O");
-		System.out.println("½Ð¿é¤J¨Ï¥Î«×¼Æ.");
+		System.out.println("4. é›»è²»è¨ˆç®—");
+		System.out.println("è«‹è¼¸å…¥åº¦æ•¸.");
 		
 		Scanner scanner = new Scanner(System.in);
 		int inputWatt = scanner.nextInt();

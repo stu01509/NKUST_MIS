@@ -4,12 +4,13 @@ public class CheckCoordinateInsideTheCircleRange {
 
 	public static void main(String[] args) {
 		
-		System.out.println("§PÂ_®y¼Ð¬O§_¦b¶ê§Îªº½d³ò¤º");
+		System.out.println("10. åˆ¤æ–·åº§æ¨™æ˜¯å¦åœ¨åœ“å½¢çš„ç¯„åœå…§");
 		
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.println("½Ð¿é¤J®y¼Ð.");
+		System.out.println("è¼¸å…¥Xåº§æ¨™.");
 		int x = scanner.nextInt();
+		System.out.println("è¼¸å…¥Yåº§æ¨™.");
 		int y = scanner.nextInt();
 		
 		if((x * x) + (y * y) > 10000){

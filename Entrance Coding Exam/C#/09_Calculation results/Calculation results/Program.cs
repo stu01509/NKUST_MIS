@@ -12,7 +12,7 @@ namespace Calculation_results
         {
             int m, n, m_Result=1, n_Result=1, sub_Result=1,ans;
 
-            Console.WriteLine("計算結果");
+            Console.WriteLine("9. 計算結果");
             Console.WriteLine("請輸入m.");
             m = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("請輸入n.");

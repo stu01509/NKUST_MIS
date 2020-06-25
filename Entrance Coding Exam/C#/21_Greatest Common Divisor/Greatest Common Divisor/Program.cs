@@ -10,7 +10,7 @@ namespace Greatest_Common_Divisor
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("最大公因數");
+            Console.WriteLine("21. 最大公因數");
             Console.WriteLine("請輸入第 1 個數字.");
             int num1 = Convert.ToInt32(Console.ReadLine());
 

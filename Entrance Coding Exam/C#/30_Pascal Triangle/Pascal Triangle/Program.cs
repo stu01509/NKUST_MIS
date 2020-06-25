@@ -13,7 +13,7 @@ namespace Pascal_Triangle
 
 
             //點的數量
-            Console.WriteLine("帕斯卡三角形");
+            Console.WriteLine("30. 帕斯卡三角形");
             Console.WriteLine("請輸入點的數量.");
             int inputN = Convert.ToInt32(Console.ReadLine());
 

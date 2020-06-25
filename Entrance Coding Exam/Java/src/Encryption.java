@@ -4,8 +4,8 @@ public class Encryption {
 
 	public static void main(String[] args) {
 		 
-		System.out.println("¼Æ¦r¥[±K");
-		System.out.println("½Ğ¿é¤J4¦ì¼Æ¦r.");
+		System.out.println("15. æ•¸å­—åŠ å¯†");
+		System.out.println("è«‹è¼¸å…¥4ä½æ•¸å­—.");
 		
 		Scanner scanner = new Scanner(System.in);
 		String inputValue[] = scanner.nextLine().split("");

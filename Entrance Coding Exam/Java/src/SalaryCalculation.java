@@ -4,17 +4,17 @@ public class SalaryCalculation {
 
 	public static void main(String[] arg) {
 		
-		System.out.println("Á~¸ê­pºâ¾÷ ");
+		System.out.println("11. è–ªè³‡è¨ˆç®—æ©Ÿ");
 		
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.println("½Ð¿é¤J¤H¼Æ.");
+		System.out.println("è«‹è¼¸å…¥äººæ•¸.");
 		int inputPerson = Integer.valueOf(scanner.nextLine());
 		
 
 		for(int i = 0; i < inputPerson; i++) {
 			
-			System.out.println("½Ð¿é¤J®É¼Æ ®ÉÁ~ ¤u§@¤é.");
+			System.out.println("è«‹è¼¸å…¥æ™‚æ•¸ æ™‚è–ª å·¥ä½œæ—¥.");
 			
 			int startH = scanner.nextInt(); 
 			int startM = scanner.nextInt();

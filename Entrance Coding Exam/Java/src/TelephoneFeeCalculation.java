@@ -4,8 +4,8 @@ public class TelephoneFeeCalculation {
 
 	public static void main(String[] args) {
 		
-		System.out.println("¹q«H¶O¥Îªº­pºâ");
-		System.out.println("½Ð¿é¤J¬í¼Æ.");
+		System.out.println("18. é›»ä¿¡è²»ç”¨çš„è¨ˆç®—");
+		System.out.println("è«‹è¼¸å…¥ç§’æ•¸.");
 		
 		Scanner scanner = new Scanner(System.in);
 		int inputValue = scanner.nextInt();

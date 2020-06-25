@@ -10,7 +10,7 @@ namespace Encryption
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("數字加密");
+            Console.WriteLine("15. 數字加密");
             Console.WriteLine("請輸入4位數字.");
             string input = Console.ReadLine();
 

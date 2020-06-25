@@ -4,8 +4,8 @@ public class GrandmaSalesEgg {
 
 	public static void main(String[] args) {
 		
-		System.out.println("ªü±C½æ³J");
-		System.out.println("½Ð¿é¤J¼Æ¦r.");		
+		System.out.println("17. é˜¿å©†è³£è›‹");
+		System.out.println("è«‹è¼¸å…¥æ•¸å­—.");
 		Scanner scanner = new Scanner(System.in);
 		int inputValue = scanner.nextInt();
 		

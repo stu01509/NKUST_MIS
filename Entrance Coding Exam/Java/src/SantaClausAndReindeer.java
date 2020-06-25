@@ -4,12 +4,12 @@ public class SantaClausAndReindeer {
 
 	public static void main(String[] args) {
 		
-		System.out.println("¸t½Ï¦Ñ¤H»P¹¥³À");
+		System.out.println("8. è–èª•è€äººèˆ‡é¦´é¹¿");
 		
 		Scanner scanner = new Scanner(System.in);
-		System.out.println("½Ğ¿é¤JÀYªº¼Æ¶q.");
+		System.out.println("è«‹è¼¸å…¥é ­çš„æ•¸é‡.");
 		int head = Integer.valueOf(scanner.nextLine());
-		System.out.println("½Ğ¿é¤J¸}ªº¼Æ¶q.");
+		System.out.println("è«‹è¼¸å…¥è…³çš„æ•¸é‡.");
 		int foot = Integer.valueOf(scanner.nextLine());
 			
 	

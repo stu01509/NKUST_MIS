@@ -4,13 +4,13 @@ public class ConstellationSearch {
 
 	public static void main(String[] args) {
 		
-		System.out.println("¬P®y¬d¸ß");
-		System.out.println("½Ð¿é¤J¤ë¤Î¤é´Á.");
+		System.out.println("14. æ˜Ÿåº§æŸ¥è©¢");
+		System.out.println("è«‹è¼¸å…¥æ—¥æœŸ.");
 		Scanner scanner = new Scanner(System.in);
 		int month = scanner.nextInt();
 		int day = scanner.nextInt();
 		
-		// ¦pªG¼g¦¨ month == 01 ªº¸Ü, ·|³Qµø¬°¤K¶i¨î, ¾É­P08 09¥X²{¿ù»~
+		// Â¦pÂªGÂ¼gÂ¦Â¨ month == 01 ÂªÂºÂ¸Ãœ, Â·|Â³QÂµÃ¸Â¬Â°Â¤KÂ¶iÂ¨Ã®, Â¾Ã‰Â­P08 09Â¥XÂ²{Â¿Ã¹Â»~
 		// The literal 09 of type int is out of range
 		if(month == 1){			
             if(day <= 20){            	

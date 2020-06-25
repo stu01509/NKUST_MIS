@@ -2,16 +2,16 @@ import java.util.Scanner;
 
 public class CentroidIncircleIncenter {
 
-	public static void main(String[] args) {
-		
-		System.out.println("§TÆyº–¬I®D®‰≠´§ﬂ°B§∫§ﬂ°B•~§ﬂ");
-		System.out.println("Ω–øÈ§JÆyº–¶Ï∏m.");
+    public static void main(String[] args) {
 
-		Scanner scanner = new Scanner(System.in);
-		
-		String[] inputOne = scanner.nextLine().split(" ");
-		String[] inputTwo = scanner.nextLine().split(" ");
-		String[] inputThree = scanner.nextLine().split(" ");
+        System.out.println("26. ‰∏âÂ∫ßÊ®ôÈªûÊ±ÇÂÖ∂ÈáçÂøÉ„ÄÅÂÖßÂøÉ„ÄÅÂ§ñÂøÉ");
+        System.out.println("Ë´ãËº∏ÂÖ•Â∫ßÊ®ô‰ΩçÁΩÆ.");
+
+        Scanner scanner = new Scanner(System.in);
+
+        String[] inputOne = scanner.nextLine().split(" ");
+        String[] inputTwo = scanner.nextLine().split(" ");
+        String[] inputThree = scanner.nextLine().split(" ");
 
         double x1 = Double.valueOf(inputOne[0]);
         double y1 = Double.valueOf(inputOne[1]);
@@ -20,22 +20,22 @@ public class CentroidIncircleIncenter {
         double x3 = Double.valueOf(inputThree[0]);
         double y3 = Double.valueOf(inputThree[1]);
 
-        //≠´§ﬂ
+        //ÈáçÂøÉ
         double centroidX = 0;
         double centroidY = 0;
 
         centroidX = (x1 + x2 + x3) / 3;
         centroidY = (y1 + y2 + y3) / 3;
-         
+
         System.out.println(centroidX);
         System.out.println(centroidY);
 
-        //§∫§ﬂ
+        //ÂÖßÂøÉ
         double incircleA = 0;
         double incircleB = 0;
         double incircleC = 0;
         double incircleSum = 0;
-                     
+
         double incircleX = 0;
         double incircleY = 0;
 
@@ -45,25 +45,24 @@ public class CentroidIncircleIncenter {
         incircleC = Math.sqrt(Math.pow(Math.abs((x2 - x1)), 2) + Math.pow(Math.abs((y2 - y1)), 2));
         incircleSum = incircleA + incircleB + incircleC;
 
-         
+
         incircleX = ((incircleA * x1) + (incircleB * x2) + (incircleC * x3)) / incircleSum;
         incircleY = ((incircleA * y1) + (incircleB * y2) + (incircleC * y3)) / incircleSum;
 
         System.out.println(incircleX);
         System.out.println(incircleY);
 
-        //•~§ﬂ
+        //Â§ñÂøÉ
         double cosA = (Math.pow(incircleB, 2) + Math.pow(incircleC, 2) - Math.pow(incircleA, 2)) / (2 * incircleB * incircleC);
-        double cosB = (Math.pow(incircleC, 2) + Math.pow(incircleA, 2) - Math.pow(incircleB, 2)) /( 2 * incircleA * incircleC);
-        double cosC = (Math.pow(incircleB, 2) + Math.pow(incircleA, 2) - Math.pow(incircleC, 2)) /( 2 * incircleA * incircleB);
-        double centerX = (x1 * incircleA * cosA + x2 * incircleB * cosB + x3 * incircleC * cosC) / ( incircleA * cosA +  incircleB * cosB +  incircleC * cosC);
+        double cosB = (Math.pow(incircleC, 2) + Math.pow(incircleA, 2) - Math.pow(incircleB, 2)) / (2 * incircleA * incircleC);
+        double cosC = (Math.pow(incircleB, 2) + Math.pow(incircleA, 2) - Math.pow(incircleC, 2)) / (2 * incircleA * incircleB);
+        double centerX = (x1 * incircleA * cosA + x2 * incircleB * cosB + x3 * incircleC * cosC) / (incircleA * cosA + incircleB * cosB + incircleC * cosC);
         double centerY = (y1 * incircleA * cosA + y2 * incircleB * cosB + y3 * incircleC * cosC) / (incircleA * cosA + incircleB * cosB + incircleC * cosC);
 
         System.out.println(centerX);
         System.out.println(centerY);
 
 
-		
-	}
-	
+    }
+
 }

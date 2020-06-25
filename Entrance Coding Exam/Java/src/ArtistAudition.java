@@ -4,8 +4,8 @@ public class ArtistAudition {
 
 	public static void main(String[] args) {
 		
-		System.out.println("ÃÀ¤H¿ï¨q");
-		System.out.println("½Ğ¿é¤J¤H¼Æ.");
+		System.out.println("4. è—äººé¸ç§€");
+		System.out.println("è«‹è¼¸å…¥äººæ•¸.");
 		
 		Scanner scanner = new Scanner(System.in);
 		int inputValue = scanner.nextInt();
@@ -13,7 +13,7 @@ public class ArtistAudition {
 		int[][] personData = new int[inputValue][6];
 		double[][] resultData = new double[inputValue][2];
 		
-		System.out.println("½Ğ¿é¤J¤À¼Æ.");
+		System.out.println("è«‹è¼¸å…¥è©•åˆ†.");
 		for(int i = 0; i < inputValue; i++) {
 			// order
 			personData[i][0] =scanner.nextInt();

@@ -10,7 +10,7 @@ namespace Constellation_Search
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("星座查詢");
+            Console.WriteLine("14. 星座查詢");
             Console.WriteLine("請輸入日期.");
             string[] date = Console.ReadLine().Split(' ');
             int month = Convert.ToInt32(date[0]);

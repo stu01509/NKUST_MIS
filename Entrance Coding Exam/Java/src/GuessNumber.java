@@ -4,15 +4,15 @@ public class GuessNumber {
 
 	public static void main(String[] args) {
 		
-		System.out.println("²q¼Æ¦r");
+		System.out.println("28. çŒœæ•¸å­—");
 		check();
 	}
 	
 	public static void check() {
-		
-		//°²³]µª®×
+
+        //å‡è¨­ç­”æ¡ˆ
         String ans = "1234";
-        System.out.println("½Ğ¿é¤J¼Æ¦r.");
+        System.out.println("è«‹è¼¸å…¥æ•¸å­—.");
         
         Scanner scanner = new Scanner(System.in);
         String inputValue = scanner.nextLine();
