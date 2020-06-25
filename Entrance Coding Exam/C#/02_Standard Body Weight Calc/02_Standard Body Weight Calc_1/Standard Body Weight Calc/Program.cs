@@ -13,7 +13,7 @@ namespace Standard_Body_Weight_Calc
             String inputHeight, inputSex,male,female;
             int int_inputHeight, int_inputSex ;
             double double_male, double_female;
-            Console.WriteLine("標準體重計算");
+            Console.WriteLine("2. 標準體重計算");
             Console.WriteLine("請輸入身高.");
             inputHeight = Console.ReadLine();
             Console.WriteLine("請輸入性別.");

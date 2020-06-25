@@ -5,8 +5,8 @@ public class ThreePointsCircle {
 
 	public static void main(String[] args) {
 		
-		System.out.println("¤TÂI¨D¶ê");
-		System.out.println("½Ğ¿é¤J®y¼Ğ¦ì¸m.");
+		System.out.println("20. ä¸‰é»æ±‚åœ“");
+		System.out.println("è«‹è¼¸å…¥åº§æ¨™ä½ç½®.");
 		
 		Scanner scanner = new Scanner(System.in);
 		
@@ -21,7 +21,7 @@ public class ThreePointsCircle {
         double x3 = Double.valueOf(inputThree[0]);
         double y3 = Double.valueOf(inputThree[1]);
 
-        //­«¤ß
+        //é‡å¿ƒ
         double centroidX = 0;
         double centroidY = 0;
 
@@ -29,7 +29,7 @@ public class ThreePointsCircle {
         centroidY = (y1 + y2 + y3) / 3;
 
 
-        //¤º¤ß
+        //å…§å¿ƒ
         double incircleA = 0;
         double incircleB = 0;
         double incircleC = 0;
@@ -49,7 +49,7 @@ public class ThreePointsCircle {
         incircleY = ((incircleA * y1) + (incircleB * y2) + (incircleC * y3)) / incircleSum;
 
 
-        //¥~¤ß
+        //å¤–å¿ƒ
         double cosA = (Math.pow(incircleB, 2) + Math.pow(incircleC, 2) - Math.pow(incircleA, 2)) / (2 * incircleB * incircleC);
         double cosB = (Math.pow(incircleC, 2) + Math.pow(incircleA, 2) - Math.pow(incircleB, 2)) /( 2 * incircleA * incircleC);
         double cosC = (Math.pow(incircleB, 2) + Math.pow(incircleA, 2) - Math.pow(incircleC, 2)) /( 2 * incircleA * incircleB);
@@ -63,8 +63,8 @@ public class ThreePointsCircle {
         String centroidXAns = df.format(centroidX);
         
         
-        System.out.println("¶ê¤ß:" + centerXAns + "  " + centerYAns);
-        System.out.println("¥b®|:" + centroidXAns);
+        System.out.println("åœ“å¿ƒ:" + centerXAns + "  " + centerYAns);
+        System.out.println("åŠå¾‘:" + centroidXAns);
 	}
 	
 }

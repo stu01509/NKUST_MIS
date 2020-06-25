@@ -10,7 +10,7 @@ namespace Least_Common_Multiple
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("最小公倍數");
+            Console.WriteLine("22. 最小公倍數");
             Console.WriteLine("請輸入第 1 個數字.");
             int num1 = Convert.ToInt32(Console.ReadLine());
 

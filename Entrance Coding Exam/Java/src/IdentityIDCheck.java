@@ -4,8 +4,8 @@ public class IdentityIDCheck {
 
 	public static void main(String[] args) {
 		
-		System.out.println("¨­¤ÀÃÒ¦r¸¹ÃÑ§O");
-		System.out.println("½Ð¿é¤J¨­¤ÀÃÒ¦r¸¹.");
+		System.out.println("27. èº«åˆ†è­‰å­—è™Ÿè­˜åˆ¥");
+		System.out.println("è«‹è¼¸å…¥èº«åˆ†è­‰å­—è™Ÿ.");
 		
 		Scanner scanner = new Scanner(System.in);
 		String inputVaule = scanner.nextLine();
@@ -94,7 +94,7 @@ public class IdentityIDCheck {
                 code = "33";
                 break;              
             default:
-            	System.out.println("¿ù»~");
+            	System.out.println("Â¿Ã¹Â»~");
                 break;
          }
 		 		 
@@ -118,7 +118,7 @@ public class IdentityIDCheck {
 		 total += code.charAt(1) * 9;
 
 		 
-		 String ans = total % 10 == 0 ? "¥¿½T" : "¿ù»~";
+		 String ans = total % 10 == 0 ? "æ­£ç¢º" : "éŒ¯èª¤";
 		 
 		 System.out.println(ans);
 	}

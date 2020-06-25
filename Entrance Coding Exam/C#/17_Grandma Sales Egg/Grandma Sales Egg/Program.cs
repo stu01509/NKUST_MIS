@@ -10,7 +10,7 @@ namespace Grandma_Sales_Egg
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("阿婆賣蛋");
+            Console.WriteLine("17. 阿婆賣蛋");
             Console.WriteLine("請輸入數字.");
             int inputValue = Convert.ToInt32(System.Console.ReadLine());
 

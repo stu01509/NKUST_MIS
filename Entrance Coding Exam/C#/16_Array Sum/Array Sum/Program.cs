@@ -11,7 +11,7 @@ namespace Array_Sum
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("數字加密");
+            Console.WriteLine("16. 數字加密");
             Console.WriteLine("請輸入陣列1.");
             string[] input1 = Console.ReadLine().Split(' ');
             string[] input2 = Console.ReadLine().Split(' ');

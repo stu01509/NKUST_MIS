@@ -4,8 +4,8 @@ public class FormATriangle {
 
 	public static void main(String[] args) {
 		
-		System.out.println("¾ã¼Æ¬O§_¯àºc¦¨¤T¨¤§Î¤§¤TÃäªø");
-		System.out.println("½Ğ¿é¤J¤TÃäªø.");
+		System.out.println("6. èƒ½å¦æ§‹æˆä¸‰è§’å½¢");
+		System.out.println("è«‹è¼¸å…¥ä¸‰é‚Šé•·.");
 		
 		Scanner scanner = new Scanner(System.in);
 		

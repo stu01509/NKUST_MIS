@@ -11,7 +11,7 @@ namespace Identity_ID_Check
         static void Main(string[] args)
         {
 
-            Console.WriteLine("身分證字號識別");
+            Console.WriteLine("27. 身分證字號識別");
             Console.WriteLine("請輸入身分證字號.");
             string inputID = Console.ReadLine();
 

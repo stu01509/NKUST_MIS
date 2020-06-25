@@ -10,7 +10,7 @@ namespace Centroid_Incircle__Incenter
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("三座標點求其重心、內心、外心");
+            Console.WriteLine("26. 三座標點求其重心、內心、外心");
             Console.WriteLine("請輸入座標位置.");
 
             string[] inputOne = Console.ReadLine().Split(' ');

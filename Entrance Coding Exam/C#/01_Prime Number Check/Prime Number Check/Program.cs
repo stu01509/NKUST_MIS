@@ -12,7 +12,7 @@ namespace Prime_Number_Check
         {
             int a, i, k;
             k = 0;
-            Console.WriteLine("質數判別");
+            Console.WriteLine("1. 質數判別");
             Console.WriteLine("請輸入一個數字.");
             a = Int32.Parse(Console.ReadLine());
 

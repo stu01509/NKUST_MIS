@@ -4,14 +4,14 @@ public class ArraySum {
 
 	public static void main(String[] args) {
 		
-		System.out.println("°}¦C¬Û¥[");
+		System.out.println("16. é™£åˆ—ç›¸åŠ ");
 				
 		Scanner scanner = new Scanner(System.in);
 		int[][] arr1 = new int[3][3];
 		int[][] arr2 = new int[3][3];
 		int[][] ans = new int[3][3];
 		
-		System.out.println("½Ð¿é¤J°}¦C1.");
+		System.out.println("è«‹è¼¸å…¥é™£åˆ—1.");
 		for(int i = 0;i < 3;i++) {
 
 			arr1[i][0] = scanner.nextInt();
@@ -19,7 +19,7 @@ public class ArraySum {
 			arr1[i][2] = scanner.nextInt();
 		}
 		
-		System.out.println("½Ð¿é¤J°}¦C2.");
+		System.out.println("è«‹è¼¸å…¥é™£åˆ—2.");
 		for(int i = 0;i < 3;i++) {			
 
 			arr2[i][0] = scanner.nextInt();

@@ -16,7 +16,7 @@ namespace Electricity_Pricing_Calc
             double[] nosummer = {2.10, 2.68, 3.61, 4.01, 4.50 };
 
 
-            Console.WriteLine("電費計算");
+            Console.WriteLine("4. 電費計算");
             Console.WriteLine("請輸入度數.");
 
             inputWatt = Console.ReadLine();

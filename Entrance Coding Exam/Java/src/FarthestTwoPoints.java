@@ -4,14 +4,14 @@ public class FarthestTwoPoints {
 
 	public static void main(String[] args) {
 		
-		System.out.println("³Ì»·ªº¨âÂI");
-		System.out.println("½Ğ¿é¤J´X­ÓÂI.");
+		System.out.println("19. æœ€é çš„å…©é»");
+		System.out.println("è«‹è¼¸å…¥å¹¾å€‹é».");
 		Scanner scanner = new Scanner(System.in);
 		int inputValue = scanner.nextInt();
 		
 		int[][] dataDot = new int[inputValue + 1][2];
 		
-		System.out.println("½Ğ¿é¤J®y¼Ğ.");
+		System.out.println("è«‹è¼¸å…¥åº§æ¨™.");
 		
 		for (int i = 1; i <= inputValue; i++) {
             

@@ -10,7 +10,7 @@ namespace Three_Points_Circle
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("三點求圓");
+            Console.WriteLine("20. 三點求圓");
             Console.WriteLine("請輸入座標位置.");
 
             string[] inputOne = Console.ReadLine().Split(' ');

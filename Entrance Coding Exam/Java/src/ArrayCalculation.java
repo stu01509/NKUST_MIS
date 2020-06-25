@@ -4,13 +4,13 @@ public class ArrayCalculation {
 
 	public static void main(String[] args) {
 		
-		System.out.println("°}¦C­pºâ");
+		System.out.println("é™£åˆ—è¨ˆç®—");
 		
 		Scanner scanner = new Scanner(System.in);
 
-		System.out.println("½Ð¿é¤J°}¦C1.");
+		System.out.println("è«‹è¼¸å…¥ç¬¬ä¸€ç­†æ•¸å­—.");
 		String[]arr1 =scanner.nextLine().split("");
-		System.out.println("½Ð¿é¤J°}¦C2.");
+		System.out.println("è«‹è¼¸å…¥ç¬¬äºŒç­†æ•¸å­—.");
 		String[]arr2 =scanner.nextLine().split("");
 		
 		String ans = "";

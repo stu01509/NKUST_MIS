@@ -10,7 +10,7 @@ namespace Artist_Audition
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("藝人選秀");
+            Console.WriteLine("5. 藝人選秀");
             Console.WriteLine("請輸入人數.");
             int inputPerson = Convert.ToInt32(Console.ReadLine());
             int[,] reslut = new int[inputPerson, 2];

@@ -10,7 +10,7 @@ namespace Telephone_Fee_Calculation
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("電信費用的計算");
+            Console.WriteLine("18. 電信費用的計算");
             Console.WriteLine("請輸入秒數.");
 
             int inputValue = Convert.ToInt32(System.Console.ReadLine());

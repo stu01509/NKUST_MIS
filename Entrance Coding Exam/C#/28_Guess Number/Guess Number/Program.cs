@@ -10,7 +10,7 @@ namespace Guess_Number
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("猜數字");
+            Console.WriteLine("28. 猜數字");
             check();
         }
 

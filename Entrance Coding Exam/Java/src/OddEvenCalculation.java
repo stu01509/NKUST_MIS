@@ -4,8 +4,8 @@ public class OddEvenCalculation {
 
 	public static void main(String[] args) {
 		
-		System.out.println("©_°¸¼Æ®t­pºâ");
-		System.out.println("½Ğ¿é¤J¼Æ¦r.");
+		System.out.println("23. å¥‡å¶æ•¸å·®è¨ˆç®—");
+		System.out.println("è«‹è¼¸å…¥æ•¸å­—.");
 		
 		Scanner scanner = new Scanner(System.in);
 		String input = scanner.nextLine();
@@ -26,9 +26,9 @@ public class OddEvenCalculation {
 		}
 		
 		if(Math.abs(odd - even) % 11 == 0) {
-			System.out.println(input + "¤§©_°¸¼Æ®t¬° 11 ªº­¿¼Æ ");
+			System.out.println(input + "ä¹‹å¥‡å¶æ•¸å·®ç‚º 11 çš„å€æ•¸");
 		}else {
-			System.out.println(input + "¤§©_°¸¼Æ®t¤£¬O 11 ªº­¿¼Æ ");
+			System.out.println(input + "ä¹‹å¥‡å¶æ•¸å·®ä¸æ˜¯ 11 çš„å€æ•¸");
 		}
 		
 		

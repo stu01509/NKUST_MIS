@@ -10,7 +10,7 @@ namespace Odd_Even_Calculation
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("奇偶數差計算");
+            Console.WriteLine("23. 奇偶數差計算");
             Console.WriteLine("請輸入數字.");
             string inputValue = System.Console.ReadLine();
 

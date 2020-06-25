@@ -5,8 +5,8 @@ public class Variance {
 
 	public static void main(String[] args) {
 		
-		System.out.println("ÅÜ²§¼Æ");
-		System.out.println("½Ð¿é¤J¼Æ¦r.");
+		System.out.println("24. è®Šç•°æ•¸");
+		System.out.println("è«‹è¼¸å…¥æ•¸å­—.");
 		
 		Scanner scanner = new Scanner(System.in);
 		String[] inputValue = scanner.nextLine().split(" ");

@@ -10,7 +10,7 @@ namespace Sine_Function_Approximate_Value
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("求 sin 函數的近似值");
+            Console.WriteLine("25. 求 sin 函數的近似值");
             Console.WriteLine("請輸入 x 及一個正整數 N");
                        
             string[] inputValue = Console.ReadLine().Split(' ');

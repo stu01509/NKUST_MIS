@@ -4,10 +4,11 @@ public class GreatestCommonDivisor {
 
 	public static void main(String[] args) {
 		
-		System.out.println("�̤j���]��");
-		System.out.println("�п�JM�PN.");
+		System.out.println("21. 最大公因數");
 		Scanner scanner = new Scanner(System.in);
+		System.out.println("請輸入第 1 個數字.");
 		int m = scanner.nextInt();
+		System.out.println("請輸入第 2 個數字.");
 		int n = scanner.nextInt();
 		
 		int ans = 0;

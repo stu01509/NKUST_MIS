@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class HowManyPairsOfRabbits {
 
 	public static void main(String[] args) {
-		System.out.println("¨ì©³¦³´X¹ï¨ß¤l?");
-		System.out.println("½Ğ¿é¤J¤ë¥÷.");
+		System.out.println("3. åˆ°åº•æœ‰å¹¾å°å…”å­?");
+		System.out.println("è«‹è¼¸å…¥æœˆä»½.");
 
 		Scanner scanner = new Scanner(System.in);
 		int month = scanner.nextInt();

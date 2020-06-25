@@ -12,7 +12,7 @@ namespace Salary_Calculation
         {
             int person;
          
-            Console.WriteLine("薪資計算機");
+            Console.WriteLine("11. 薪資計算機");
             Console.WriteLine("請輸入員工人數.");
             person = Convert.ToInt32(Console.ReadLine());
 

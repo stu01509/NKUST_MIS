@@ -5,8 +5,8 @@ public class SineFunctionApproximateValue {
 
 	public static void main(String[] args) {
 		
-		System.out.println("¨D sin ¨ç¼Æªºªñ¦ü­È");
-		System.out.println("½Ğ¿é¤J x ¤Î N");
+		System.out.println("25. æ±‚ sin å‡½æ•¸çš„è¿‘ä¼¼å€¼");
+		System.out.println("è«‹è¼¸å…¥ x åŠä¸€å€‹æ­£æ•´æ•¸ N");
 		Scanner scanner = new Scanner(System.in);
 		int n = scanner.nextInt();
 		int x = scanner.nextInt();

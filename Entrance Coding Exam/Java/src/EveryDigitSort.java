@@ -2,37 +2,31 @@ import java.util.Scanner;
 
 public class EveryDigitSort {
 
-	public static void main(String[] args) {
-		
-		System.out.println("¦U¦ì¼Æ¦r©M±Æ§Ç");
-		System.out.println("½Ğ¿é¤J­Ó¼Æ.");
-		
-		Scanner scanner = new Scanner(System.in);
-		String input = scanner.nextLine();
-		
-		System.out.println("½Ğ¿é¤J¼Æ¦r.");
-		
-		String[] inputValue = scanner.nextLine().split(" ");
-		int[][] valueData = new int [Integer.valueOf(input)][2];
-		
-		
-		for(int i = 0; i < inputValue.length; i++) {
-			// ±N­ì­ÈÀx¦s¦Ü valueData[][0]
-			valueData[i][0] = Integer.valueOf(inputValue[i]);
-			
-			// ±N¸Ó¼Æ¦r¥[Á` ¨ÃÀx¦s¦ÜvalueData[][1]
-			for(int j = 0; j <= 3; j++) {
-				valueData[i][1] += Character.getNumericValue(inputValue[i].charAt(j));
-			}
-		}
+    public static void main(String[] args) {
 
-		for (int i = 0; i < inputValue.length; i++)
-        {
-            for(int j = 0; j < inputValue.length - 1; j++)
-            {
-                if(valueData[j][1] > valueData[j + 1][1])
-                {
-                    // [0] N¬°­ì­È [1]Total¬°¸Ó¼Æ¦rSum
+        System.out.println("29. å„ä½æ•¸å­—å’Œæ’åº");
+        System.out.println("è«‹è¼¸å…¥å€‹æ•¸.");
+
+        Scanner scanner = new Scanner(System.in);
+        String input = scanner.nextLine();
+
+        System.out.println("è«‹è¼¸å…¥æ•¸å­—.");
+
+        String[] inputValue = scanner.nextLine().split(" ");
+        int[][] valueData = new int[Integer.valueOf(input)][2];
+
+
+        for (int i = 0; i < inputValue.length; i++) {
+            valueData[i][0] = Integer.valueOf(inputValue[i]);
+
+            for (int j = 0; j <= 3; j++) {
+                valueData[i][1] += Character.getNumericValue(inputValue[i].charAt(j));
+            }
+        }
+
+        for (int i = 0; i < inputValue.length; i++) {
+            for (int j = 0; j < inputValue.length - 1; j++) {
+                if (valueData[j][1] > valueData[j + 1][1]) {
                     int tempN;
                     int tempTotal;
 
@@ -48,16 +42,11 @@ public class EveryDigitSort {
                 }
             }
         }
-		
-		//±Æ§Ç¹J¨ìÁ`©M¬Ûµ¥®É¤p©¹¥ª ¤j©¹¥k
-        for(int i = 0; i < inputValue.length; i++)
-        {
-            for(int j = 0; j < inputValue.length - 1; j++)
-            {
-                if(valueData[j][1] == valueData[j + 1][1])
-                {
-                    if(valueData[j][0] > valueData[j + 1][0])
-                    {
+
+        for (int i = 0; i < inputValue.length; i++) {
+            for (int j = 0; j < inputValue.length - 1; j++) {
+                if (valueData[j][1] == valueData[j + 1][1]) {
+                    if (valueData[j][0] > valueData[j + 1][0]) {
                         int tempN;
                         int tempTotal;
 
@@ -73,13 +62,13 @@ public class EveryDigitSort {
                     }
                 }
             }
-        }                   
-		
-		for(int i = 0; i < inputValue.length; i++) {
-			System.out.print(valueData[i][0] + " ");
+        }
 
-		}		
-		
-	}
-	
+        for (int i = 0; i < inputValue.length; i++) {
+            System.out.print(valueData[i][0] + " ");
+
+        }
+
+    }
+
 }

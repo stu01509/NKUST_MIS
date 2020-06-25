@@ -4,17 +4,17 @@ public class SalaryCalculation {
 
 	public static void main(String[] arg) {
 		
-		System.out.println("薪資計算機 ");
+		System.out.println("11. ?????");
 		
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.println("請輸入人數.");
+		System.out.println("???????.");
 		int inputPerson = Integer.valueOf(scanner.nextLine());
 		
 
 		for(int i = 0; i < inputPerson; i++) {
 			
-			System.out.println("請輸入時數 時薪 工作日.");
+			System.out.println("????? ?? ???.");
 			
 			int startH = scanner.nextInt(); 
 			int startM = scanner.nextInt();
